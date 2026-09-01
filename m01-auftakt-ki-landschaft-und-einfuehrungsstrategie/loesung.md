@@ -12,12 +12,12 @@ Typische Medienbrüche bei einem Ingenieurbüro wie EFG:
 
 Typische Bewertung (Skala +/o/−):
 
-| Option | Datenschutz | Kosten/Lizenzen | Kontrolle | Pflegeaufwand | Know-how |
-| --- | --- | --- | --- | --- | --- |
-| Fertige KI-Tools (Copilot Chat) | + | + (in M365 enthalten) | o | + | + |
-| Eigene Agenten (Copilot Studio) | o | + (in M365 Business enthalten) | + | o | o |
-| Pilotprojekt in einem Team | + | + | + | + | + |
-| Unternehmensweiter Rollout | o | o | o | − | − |
+| Option                          | Datenschutz | Kosten/Lizenzen                | Kontrolle | Pflegeaufwand | Know-how |
+| ------------------------------- | ----------- | ------------------------------ | --------- | ------------- | -------- |
+| Fertige KI-Tools (Copilot Chat) | +           | + (in M365 enthalten)          | o         | +             | +        |
+| Eigene Agenten (Copilot Studio) | o           | + (in M365 Business enthalten) | +         | o             | o        |
+| Pilotprojekt in einem Team      | +           | +                              | +         | +             | +        |
+| Unternehmensweiter Rollout      | o           | o                              | o         | −             | −        |
 
 **Empfohlene Option für EFG:** Eigene Agenten bauen, gestartet als Pilotprojekt — da beide Use Cases
 (Datenextraktion, Aufmaßprüfung) spezifische, wiederkehrende Prozesse sind, für die es keine

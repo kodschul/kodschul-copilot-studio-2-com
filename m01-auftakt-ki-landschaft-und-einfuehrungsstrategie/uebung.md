@@ -7,10 +7,12 @@
 ## Aufgabe 1 — Softwarelandschaft-Mapping
 
 ### Ziel
+
 Die eigene Softwarelandschaft transparent machen und "Medienbrüche" identifizieren, an denen KI-Agenten
 später ansetzen können.
 
 ### Vorgehen
+
 1. Listet alle Systeme auf, die ihr im Arbeitsalltag nutzt (M365/Outlook/Teams, CAD-/DXF-Software,
    Solarcomputer, SharePoint/Ablage, ggf. weitere).
 2. Zeichnet für jeden Prozess, bei dem Daten zwischen zwei Systemen manuell übertragen werden, einen
@@ -20,10 +22,12 @@ später ansetzen können.
 ## Aufgabe 1b — KI-Einführungs-Abwägung
 
 ### Ziel
+
 Die vorgestellten Einführungsoptionen (fertige Tools, eigene Agenten, Pilotprojekt, Rollout) anhand
 konkreter Kriterien für EFG bewerten.
 
 ### Vorgehen
+
 1. Zeichnet eine Tabelle mit den 4 Optionen (Fertige KI-Tools, Eigene Agenten, Pilotprojekt,
    Unternehmensweiter Rollout) als Zeilen.
 2. Als Spalten: Datenschutz/Datensicherheit, Kosten/Lizenzen, Kontrolle & Nachvollziehbarkeit,

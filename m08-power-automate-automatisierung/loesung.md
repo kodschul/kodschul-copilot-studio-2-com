@@ -3,6 +3,7 @@
 ## Erwartetes Ergebnis
 
 Ein Flow mit:
+
 - Trigger: "Wenn ein Flow von einem Copilot Agent aufgerufen wird", mit Parametern passend zur Tabelle
   aus M07 (Raum/Bauteil, Fläche, Einheit)
 - Aktion: "Zeile in Tabelle hinzufügen" (Excel Online) oder "Element erstellen" (SharePoint)

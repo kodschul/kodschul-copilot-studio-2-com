@@ -36,6 +36,7 @@ handeln (z. B. einen Plan einlesen und die Werte automatisiert weitergeben) — 
 
 **Warum liefert unser Extraktions-Agent manchmal falsche Werte?**
 Meistens einer von drei Gründen:
+
 1. Die Planqualität ist schlecht (Scan, Handschrift, uneinheitliches Layout).
 2. Die Instruktionen sind zu ungenau formuliert (Ausgabeformat nicht klar beschrieben).
 3. Der Plan enthält Sonderfälle, die im Beispiel nicht vorkamen (z. B. fehlende Raumbezeichnung).

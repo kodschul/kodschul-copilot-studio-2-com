@@ -3,6 +3,7 @@
 ## Erwartetes Ergebnis
 
 Ein Agent mit:
+
 - Name & Beschreibung (klar formuliert)
 - Instruktionen, die Rolle, Sprache (Deutsch) und Ausgabeformat festlegen, z. B.:
   > "Du bist ein hilfreicher Assistent für [Thema]. Antworte immer auf Deutsch, kurz und in

@@ -1,35 +1,48 @@
 # M10 Theorie: Wrap-up, Erweiterung & Übergabe
 
+> Lesetext für die Teilnehmenden und Showcase-Vorlage für den Trainer. Trainer-Hinweise stehen
+> gesammelt im Abschnitt "Trainer-Showcase".
+
 ## Lernziel
 
-Wissen, wie man einen Agenten eigenständig weiter ausbaut, erste Anlaufstellen für Troubleshooting
-kennen, Handout und nächste Schritte erhalten.
+Nach diesem Modul wisst ihr, wie ihr einen Agenten eigenständig weiter ausbaut, kennt erste
+Anlaufstellen für Troubleshooting und habt Handout sowie nächste Schritte erhalten.
 
 ## Dauer
 
 Tag 2 · 16:15–17:00 · 45 Minuten
 
-## Wie erweitert man einen Agenten eigenständig weiter (15 Min)
+## Wie erweitert man einen Agenten eigenständig weiter
 
-Neue Skills/Tools ergänzen: gleiches Vorgehen wie in M06/M07 gezeigt. Instruktionen iterativ
-verbessern, wenn Ergebnisse nicht wie gewünscht ausfallen (kleine Änderungen, dann erneut testen).
+Neue Skills/Tools werden nach dem gleichen Vorgehen ergänzt wie in M06/M07 gezeigt. Instruktionen
+iterativ verbessern, wenn Ergebnisse nicht wie gewünscht ausfallen (kleine Änderungen, dann erneut
+testen).
 
-## Troubleshooting-Grundlagen (10 Min)
+## Troubleshooting-Grundlagen
 
-Wo schaut man nach, wenn ein Skill/Tool nicht funktioniert: Testfenster-Verlauf in Copilot Studio,
-Flow-Ausführungsverlauf in Power Automate (zeigt genau, wo ein Schritt fehlgeschlagen ist).
+Wo schaut man nach, wenn ein Skill/Tool nicht funktioniert: im Testfenster-Verlauf in Copilot Studio
+bzw. im Flow-Ausführungsverlauf in Power Automate (zeigt genau, wo ein Schritt fehlgeschlagen ist).
 
-## Offene Fragen sammeln (10 Min)
+## Nächste Schritte für EFG
 
-→ Übung/Selbstreflexion siehe [uebung.md](uebung.md).
+- Handout ([handout.md](../handout.md)) als Nachschlagewerk
+- Pilotprojekt mit echten Testdaten
+- Klärung der Solarcomputer-Anbindung mit Microsoft-Partner/IT
+- Termin für Follow-up vereinbaren
 
-## Handout-Übergabe & nächste Schritte für EFG (10 Min)
+## Trainer-Showcase
 
-- Handout ([handout.md](../handout.md)) übergeben/Link teilen
-- Nächste Schritte vorschlagen: Pilotprojekt mit echten Testdaten, Klärung Solarcomputer-Connector mit
-  Microsoft-Partner/IT, Termin für Follow-up vereinbaren
+- **Erweiterung (15 Min):** anhand eines Beispiels zeigen, wie ein zusätzliches Tool ergänzt wird.
+- **Troubleshooting (10 Min):** Testfenster-Verlauf und Flow-Ausführungsverlauf live zeigen.
+- **Offene Fragen sammeln (10 Min):** → Übung/Selbstreflexion siehe [uebung.md](uebung.md).
+- **Handout-Übergabe & nächste Schritte (10 Min):** Handout übergeben/Link teilen, nächste Schritte
+  besprechen.
+- **Abschluss-Quiz:** Leitfragen unten als Gesamt-Recap beider Tage nutzen.
+- **Umfrage:** Abschluss-Feedback zur Schulung einholen.
 
 ## Leitfragen (Abschluss-Recap beider Tage)
+
+Beantwortet die Fragen zuerst selbst, bevor ihr sie aufklappt.
 
 <details>
 <summary>Nennt die Kernbereiche eines Copilot-Studio-Agenten.</summary>

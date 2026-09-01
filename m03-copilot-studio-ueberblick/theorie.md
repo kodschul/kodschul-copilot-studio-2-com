@@ -1,47 +1,67 @@
 # M03 Theorie: Copilot Studio im Überblick
 
+> Lesetext für die Teilnehmenden und Showcase-Vorlage für den Trainer. Trainer-Hinweise stehen
+> gesammelt im Abschnitt "Trainer-Showcase".
+
 ## Lernziel
 
-Aufbau eines Copilot-Studio-Agenten (Instruktionen, Wissen, Tools, Themen, Testfenster) kennen und das
-Zusammenspiel Copilot Studio ↔ Power Automate ↔ M365 verstehen.
+Nach diesem Modul kennt ihr den Aufbau eines Copilot-Studio-Agenten (Instruktionen, Wissen, Tools,
+Themen, Testfenster) und versteht das Zusammenspiel Copilot Studio ↔ Power Automate ↔ M365.
 
 ## Dauer
 
 Tag 1 · 13:15–14:45 · 90 Minuten
 
-## Aufbau der Oberfläche (20 Min, Live-Screenshare)
+## Aufbau der Oberfläche
 
-- Startseite/Agenten-Übersicht → neuen Agenten anlegen
-- Kernbereiche: Übersicht/Beschreibung, **Instruktionen** (System-Prompt), **Wissen** (Knowledge),
-  **Tools/Skills**, **Themen** (kurz erwähnen, Fokus liegt auf Tools/Skills), **Testfenster**
-- Testfenster direkt im Editor nutzen, um Änderungen sofort auszuprobieren
+Ein Agent in Copilot Studio besteht aus folgenden Kernbereichen: Übersicht/Beschreibung,
+**Instruktionen** (System-Prompt), **Wissen** (Knowledge), **Tools/Skills**, **Themen** (klassische,
+ältere Konversationsabläufe — in dieser Schulung nicht im Fokus) und ein **Testfenster**, in dem man
+Änderungen direkt ausprobieren kann.
 
-## Skills & Tools: Konzept, Unterschied, wann was verwenden (20 Min)
+## Skills & Tools: Konzept, Unterschied, wann was verwenden
 
-Vordefinierte Konnektoren-Tools (z. B. SharePoint durchsuchen) vs. selbst angelegte Tools, die einen
-Power-Automate-Flow auslösen. Eigenes Tool bauen, sobald ein individueller Prozess (wie die
-Solarcomputer-Anbindung) nötig ist. Ein Tool braucht eine klare Beschreibung, damit der Agent versteht,
-*wann* er es einsetzen soll (Bezug zu Prompt-Techniken aus M02).
+Es gibt vordefinierte Konnektoren-Tools (z. B. SharePoint durchsuchen, E-Mail senden) und selbst
+angelegte Tools, die einen Power-Automate-Flow auslösen. Ein eigenes Tool baut man, sobald ein
+individueller Prozess (wie die Solarcomputer-Anbindung) nötig ist, den es standardmäßig nicht gibt.
+Wichtig: ein Tool braucht eine klare Beschreibung, damit der Agent versteht, _wann_ er es einsetzen
+soll (Bezug zu den Prompt-Techniken aus M02).
 
-## Knowledge/Wissensquellen anbinden (15 Min)
+## Knowledge/Wissensquellen anbinden
 
-Dateien, SharePoint-Seiten oder Webseiten als Wissensbasis hinzufügen, auf die der Agent antworten
-kann, ohne zu halluzinieren.
+Dateien, SharePoint-Seiten oder Webseiten können als Wissensbasis hinzugefügt werden, auf die der
+Agent antworten kann, ohne zu halluzinieren.
 
-## Konnektoren-Prinzip — Brücke zu Power Automate (15 Min)
+## Konnektoren-Prinzip — Brücke zu Power Automate
 
 Ein Tool in Copilot Studio kann direkt einen Power-Automate-Flow als "Backend" nutzen. Copilot Studio =
-Gesprächsebene/Verstehen, Power Automate = Ausführungsebene/Handeln.
+Gesprächsebene/Verstehen, Power Automate = Ausführungsebene/Handeln — diese Trennung ist zentral für das
+Verständnis der Architektur.
 
-## Einsatzszenarien für Ingenieurbüros & Zusammenspiel mit M365 (20 Min)
+## Einsatzszenarien für Ingenieurbüros & Zusammenspiel mit M365
 
 Beispiele: Angebotsanfragen vorstrukturieren, Plan-Daten extrahieren, Status-Updates aus
-Teams/SharePoint zusammenfassen. Zusammenspiel Copilot Studio ↔ Power Automate ↔ M365 (SharePoint als
-Ablage für Pläne).
+Teams/SharePoint zusammenfassen, Planner-Aufgaben automatisch anlegen. Zusammenspiel Copilot Studio ↔
+Power Automate ↔ M365 (SharePoint als Ablage für Pläne, Planner für Aufgaben aus dem Aufmaß-Use-Case).
 
 → Übung siehe [uebung.md](uebung.md).
 
+## Trainer-Showcase
+
+- **Aufbau der Oberfläche (20 Min, Live-Screenshare):** Startseite/Agenten-Übersicht → neuen Agenten
+  anlegen, alle Kernbereiche einmal live anklicken.
+- **Skills & Tools (20 Min):** Beispiel für ein vordefiniertes und ein selbstgebautes Tool live
+  gegenüberstellen.
+- **Knowledge (15 Min):** eine Wissensquelle live hinzufügen.
+- **Konnektoren-Prinzip (15 Min):** die Trennung Verstehen/Handeln anhand eines einfachen Beispiels
+  zeigen.
+- **Einsatzszenarien & M365-Zusammenspiel (20 Min):** Beispiele im Plenum diskutieren.
+- **Prequestion (zu Beginn):** "Welche eurer M365-Tools glaubt ihr, lassen sich direkt mit Copilot
+  Studio verbinden?"
+
 ## Leitfragen
+
+Beantwortet die Fragen zuerst selbst, bevor ihr sie aufklappt.
 
 <details>
 <summary>Aus welchen Kernbereichen besteht ein Copilot-Studio-Agent?</summary>

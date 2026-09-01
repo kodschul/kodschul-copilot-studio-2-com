@@ -12,18 +12,18 @@ der volle Zeitplan in [01-agenda.md](../01-agenda.md).
 
 ## Die zehn Module auf einen Blick
 
-| #   | Modul | Tag | Kernergebnis |
-| --- | --- | --- | --- |
+| #   | Modul                                         | Tag   | Kernergebnis                                                     |
+| --- | --------------------------------------------- | ----- | ---------------------------------------------------------------- |
 | M01 | Auftakt, KI-Landschaft & Einführungsstrategie | Tag 1 | ChatGPT/Claude/Copilot eingeordnet, Einführungsoptionen bewertet |
-| M02 | Grundlagen KI-Agenten | Tag 1 | Agent/Skill/Prompt definiert, erste Prompt-Übung |
-| M03 | Copilot Studio im Überblick | Tag 1 | Aufbau eines Agenten verstanden |
-| M04 | Power Platform im Überblick | Tag 1 | Power Automate Grundbausteine verstanden |
-| M05 | Use-Case-Discovery Workshop | Tag 1 | Discovery-Canvas für beide EFG-Use-Cases |
-| M06 | Recap & Aufbau eines einfachen Agenten | Tag 2 | Erster eigener Agent |
-| M07 | Use Case 1: Datenextraktion aus Plänen | Tag 2 | Extraktions-Agent für Pläne |
-| M08 | Automatisierung mit Power Automate | Tag 2 | Flow zur Datenübergabe |
-| M09 | Use Case 2: Aufmaßprüfung | Tag 2 | Konzept-Skizze Prüf-Agent |
-| M10 | Wrap-up, Erweiterung & Übergabe | Tag 2 | Nächste Schritte, Übergabe |
+| M02 | Grundlagen KI-Agenten                         | Tag 1 | Agent/Skill/Prompt definiert, erste Prompt-Übung                 |
+| M03 | Copilot Studio im Überblick                   | Tag 1 | Aufbau eines Agenten verstanden                                  |
+| M04 | Power Platform im Überblick                   | Tag 1 | Power Automate Grundbausteine verstanden                         |
+| M05 | Use-Case-Discovery Workshop                   | Tag 1 | Discovery-Canvas für beide EFG-Use-Cases                         |
+| M06 | Recap & Aufbau eines einfachen Agenten        | Tag 2 | Erster eigener Agent                                             |
+| M07 | Use Case 1: Datenextraktion aus Plänen        | Tag 2 | Extraktions-Agent für Pläne                                      |
+| M08 | Automatisierung mit Power Automate            | Tag 2 | Flow zur Datenübergabe                                           |
+| M09 | Use Case 2: Aufmaßprüfung                     | Tag 2 | Konzept-Skizze Prüf-Agent                                        |
+| M10 | Wrap-up, Erweiterung & Übergabe               | Tag 2 | Nächste Schritte, Übergabe                                       |
 
 ## Durchgängiges Beispielprojekt
 

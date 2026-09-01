@@ -16,6 +16,7 @@ Canvas-Vorlage (Flipchart/Papier), pro Use Case ein Blatt
 ## Vorgehen
 
 Füllt für **jeden** der beiden Use Cases folgende Canvas-Felder aus:
+
 1. **Auslöser** — wann/wodurch tritt der Prozess im Alltag auf?
 2. **Heutiger manueller Ablauf** — wie läuft es aktuell ohne KI-Unterstützung ab?
 3. **Gewünschtes Ergebnis** — was soll am Ende automatisiert vorliegen?
