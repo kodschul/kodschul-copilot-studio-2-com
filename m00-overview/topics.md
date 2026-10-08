@@ -1,0 +1,34 @@
+# Themenliste
+
+- Modul 1 – KI-Grundlagen & Kursziel
+  - The Nextise Agentic Way
+  - Wie KI entstanden ist
+  - Wie ein Sprachmodell antwortet
+- Modul 2 – Fortgeschrittenes Prompting für Custom Agents
+  - Lab 2.1 – Prompt-Checkliste
+  - Lab 2.2 – Fortgeschrittene Techniken
+  - Lab 2.3 – Vom Prompt zur Agenten-Instruktion
+  - Lab 2.4 – Human-in-the-Loop
+- Modul 3 – Agenten verstehen & erster Chat-Agent
+  - Lab 3.1 – Agent, Skill, Agentic Loop
+  - Lab 3.2 – Copilot Chat & Agent Builder
+  - Lab 3.3 – Ersten Chat-Agenten bauen
+- Modul 4 – The Nextise Agentic Way
+  - Lab 4.1 – Assistent 1: Problem-Solver
+  - Lab 4.2 – Assistent 2: Solution Architect
+  - Lab 4.3 – Assistent 3: Skill-Generator
+  - Lab 4.4 – The Nextise Agentic Way
+- Modul 5 – Chat-Agent optimieren & Weg wählen
+  - Lab 5.1 – Chat-Agent optimieren
+  - Lab 5.2 – Copilot Chat oder Copilot Studio?
+- Modul 6 – Copilot-Studio-Agent mit Skills
+  - Lab 6.1 – Studio-Agent anlegen
+  - Lab 6.2 – Skills hinzufügen
+- Modul 7 – Tools, MCP & Evaluation
+  - Lab 7.1 – Konnektoren als Tools
+  - Lab 7.2 – MCP-Server anbinden
+  - Lab 7.3 – Testen & Evaluieren
+- Modul 8 – Veröffentlichen, Workflow & Abschluss
+  - Lab 8.1 – In Teams veröffentlichen
+  - Lab 8.2 – Workflow anbinden
+  - Lab 8.3 – Governance, Showcase und Aktionsplan
